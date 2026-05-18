@@ -137,8 +137,8 @@ def main():
                     continue
 
                 # Ensure schema completeness
-                job.setdefault("currency": "USD")
-                job.setdefault("region": "IL")
+                job.setdefault("currency", "USD")
+                job.setdefault("region", "IL")
 
                 job = classify_job(job)
                 job["id"] = re.sub(r'[^a-z0-9]', '-', job.get('role','').lower()[:20]) + '-' + \

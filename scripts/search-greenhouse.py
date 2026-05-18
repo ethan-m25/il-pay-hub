@@ -176,10 +176,9 @@ def parse_location(location: str) -> str:
 
 
 def fetch_company_jobs(slug: str, company_name_override=None):
-    # Try standard US board first, then EU board (Groupon uses eu.greenhouse.io)
+    # Try standard US board only (EU board API unavailable without VPN)
     for board_base in [
         f"https://boards-api.greenhouse.io/v1/boards/{slug}/jobs?content=true",
-        f"https://boards-api.eu.greenhouse.io/v1/boards/{slug}/jobs?content=true",
     ]:
         try:
             resp = fetcher.get(board_base, timeout=20)
