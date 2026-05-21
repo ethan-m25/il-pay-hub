@@ -1,0 +1,280 @@
+{
+  "generated": "2026-05-20",
+  "categories": {
+    "Legal": {
+      "cat_median": 88000,
+      "n_jobs": 1,
+      "skills": []
+    },
+    "Management": {
+      "cat_median": 192350,
+      "n_jobs": 26,
+      "skills": [
+        {
+          "skill": "cross-functional collaboration",
+          "median": 212750,
+          "n": 2,
+          "dev": 10.6
+        },
+        {
+          "skill": "strategy",
+          "median": 207750,
+          "n": 2,
+          "dev": 8.0
+        },
+        {
+          "skill": "process optimization",
+          "median": 98500,
+          "n": 2,
+          "dev": -48.8
+        }
+      ]
+    },
+    "Other": {
+      "cat_median": 145000,
+      "n_jobs": 37,
+      "skills": [
+        {
+          "skill": "regulatory_compliance",
+          "median": 240850,
+          "n": 2,
+          "dev": 66.1
+        },
+        {
+          "skill": "healthcare",
+          "median": 167050,
+          "n": 2,
+          "dev": 15.2
+        },
+        {
+          "skill": "automation",
+          "median": 165458,
+          "n": 3,
+          "dev": 14.1
+        },
+        {
+          "skill": "cloud migration",
+          "median": 159954,
+          "n": 2,
+          "dev": 10.3
+        },
+        {
+          "skill": "aws",
+          "median": 159954,
+          "n": 2,
+          "dev": 10.3
+        },
+        {
+          "skill": "troubleshooting",
+          "median": 159954,
+          "n": 2,
+          "dev": 10.3
+        },
+        {
+          "skill": "scripting",
+          "median": 159954,
+          "n": 2,
+          "dev": 10.3
+        },
+        {
+          "skill": "technical guidance",
+          "median": 159954,
+          "n": 2,
+          "dev": 10.3
+        },
+        {
+          "skill": "governance",
+          "median": 127250,
+          "n": 2,
+          "dev": -12.2
+        },
+        {
+          "skill": "cross-functional collaboration",
+          "median": 125875,
+          "n": 2,
+          "dev": -13.2
+        }
+      ]
+    },
+    "Engineering": {
+      "cat_median": 181000,
+      "n_jobs": 54,
+      "skills": [
+        {
+          "skill": "typescript",
+          "median": 283000,
+          "n": 4,
+          "dev": 56.4
+        },
+        {
+          "skill": "trading",
+          "median": 175000,
+          "n": 3,
+          "dev": -3.3
+        },
+        {
+          "skill": "linux",
+          "median": 175000,
+          "n": 3,
+          "dev": -3.3
+        },
+        {
+          "skill": "tcpip",
+          "median": 175000,
+          "n": 2,
+          "dev": -3.3
+        },
+        {
+          "skill": "multicast",
+          "median": 175000,
+          "n": 2,
+          "dev": -3.3
+        },
+        {
+          "skill": "technical leadership",
+          "median": 171875,
+          "n": 4,
+          "dev": -5.0
+        },
+        {
+          "skill": "project management",
+          "median": 168500,
+          "n": 2,
+          "dev": -6.9
+        },
+        {
+          "skill": "automation",
+          "median": 167250,
+          "n": 2,
+          "dev": -7.6
+        },
+        {
+          "skill": "python",
+          "median": 165000,
+          "n": 4,
+          "dev": -8.8
+        },
+        {
+          "skill": "smart grid",
+          "median": 159750,
+          "n": 3,
+          "dev": -11.7
+        },
+        {
+          "skill": "engineering design",
+          "median": 159750,
+          "n": 3,
+          "dev": -11.7
+        },
+        {
+          "skill": "distributed energy resources",
+          "median": 159750,
+          "n": 3,
+          "dev": -11.7
+        },
+        {
+          "skill": "renewable integration",
+          "median": 159750,
+          "n": 3,
+          "dev": -11.7
+        },
+        {
+          "skill": "technical oversight",
+          "median": 159750,
+          "n": 3,
+          "dev": -11.7
+        },
+        {
+          "skill": "system studies",
+          "median": 159750,
+          "n": 3,
+          "dev": -11.7
+        },
+        {
+          "skill": "quality assurance",
+          "median": 158750,
+          "n": 2,
+          "dev": -12.3
+        },
+        {
+          "skill": "c++",
+          "median": 155000,
+          "n": 3,
+          "dev": -14.4
+        },
+        {
+          "skill": "database",
+          "median": 155000,
+          "n": 2,
+          "dev": -14.4
+        },
+        {
+          "skill": "sql",
+          "median": 155000,
+          "n": 2,
+          "dev": -14.4
+        }
+      ]
+    },
+    "Design": {
+      "cat_median": 126500,
+      "n_jobs": 5,
+      "skills": [
+        {
+          "skill": "technical mentorship",
+          "median": 86975,
+          "n": 2,
+          "dev": -31.2
+        },
+        {
+          "skill": "gas distribution",
+          "median": 86975,
+          "n": 2,
+          "dev": -31.2
+        }
+      ]
+    },
+    "Sales": {
+      "cat_median": 135000,
+      "n_jobs": 3,
+      "skills": []
+    },
+    "Security": {
+      "cat_median": 443000,
+      "n_jobs": 1,
+      "skills": []
+    },
+    "Data & Analytics": {
+      "cat_median": 116500,
+      "n_jobs": 8,
+      "skills": []
+    },
+    "Product": {
+      "cat_median": 214500,
+      "n_jobs": 17,
+      "skills": []
+    },
+    "Operations": {
+      "cat_median": 141450,
+      "n_jobs": 9,
+      "skills": [
+        {
+          "skill": "automation",
+          "median": 147790,
+          "n": 2,
+          "dev": 4.5
+        }
+      ]
+    },
+    "People & HR": {
+      "cat_median": 166000,
+      "n_jobs": 4,
+      "skills": []
+    },
+    "Finance": {
+      "cat_median": 144912,
+      "n_jobs": 2,
+      "skills": []
+    }
+  }
+}
