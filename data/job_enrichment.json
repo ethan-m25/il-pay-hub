@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-22T09:12:38.963206+00:00",
-    "total_jobs": 190,
-    "enriched": 94
+    "built_at": "2026-05-23T09:12:41.533985+00:00",
+    "total_jobs": 198,
+    "enriched": 111
   },
   "jobs": {
     "business-compliance--enova-internati-15847035": {
@@ -159,6 +159,23 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "manager--governance-chomps-15847035": {
+      "summary": "Supports Chomps' financial integrity by assisting in the execution and monitoring of internal controls, accounting policies, and governance processes, working closely with senior team members to ensure compliance with regulatory requirements and strengthen financial processes.",
+      "key_skills": [
+        "accounting",
+        "internal_controls",
+        "governance",
+        "compliance"
+      ],
+      "core_skills": [
+        "attention_to_detail",
+        "proactive_communication"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "staff-attorney-keller-postman-15847035": {
       "summary": "Drafts, revises, and finalizes complex legal documents for litigation cases while collaborating with partners to develop case strategy and written arguments.",
       "key_skills": [
@@ -204,6 +221,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "it-support-specialis-civis-analytics-15847035": {
+      "summary": "Provides tier one and two technical support for employees, manages software-as-a-service applications, and maintains company IT infrastructure in a cloud-first environment.",
+      "key_skills": [
+        "it support",
+        "mac os x",
+        "mdm",
+        "ticketing system",
+        "lan/wan troubleshooting",
+        "desktop automation",
+        "security compliance",
+        "cloud infrastructure"
+      ],
+      "core_skills": [
+        "it support",
+        "mac os x",
+        "mdm",
+        "ticketing system"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "civil-engineer-iii-i-milhouseinc-15847035": {
       "summary": "The Civil Engineer III/IV develops high-quality roadway plans and specifications while ensuring compliance with agency standards, collaborates with multiple engineering disciplines and external teams to deliver integrated design solutions, and manages project timelines, budgets, and client relationships.",
@@ -365,6 +405,52 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "gas-engineer-iv-milhouseinc-15847035": {
+      "summary": "The Gas Engineer IV leads the full lifecycle of complex gas infrastructure projects, including design, permitting, and construction, while providing technical oversight and client liaison for large-scale natural gas distribution or transmission projects.",
+      "key_skills": [
+        "gas engineering",
+        "project management",
+        "pipeline design",
+        "regulatory compliance",
+        "material selection",
+        "pressure regulation",
+        "pipeline integrity",
+        "pipeline sizing"
+      ],
+      "core_skills": [
+        "project leadership",
+        "technical oversight",
+        "client liaison",
+        "quality assurance"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "gas-engineering-i-ii-milhouseinc-15847035": {
+      "summary": "Manages pipeline projects to meet client expectations through design, regulatory compliance, and project execution.",
+      "key_skills": [
+        "pipeline design",
+        "safety requirements",
+        "project scoping",
+        "cost estimates",
+        "design plans",
+        "material selection",
+        "constructability",
+        "calculations"
+      ],
+      "core_skills": [
+        "project management",
+        "regulatory compliance",
+        "client communication",
+        "technical design"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "mechanical-engineeri-milhouseinc-15847035": {
       "summary": "The Mechanical Engineering Manager provides technical leadership, plans, organizes, and implements the development of all projects within the Aviation (Design Build) group.",
       "key_skills": [
@@ -405,6 +491,29 @@
         "technical leadership",
         "field engineering support",
         "system hardening"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-substation-el-milhouseinc-15847035": {
+      "summary": "Senior Substation Electrical Engineer leads protective system designs, physical layout designs, and calculations for high voltage substation projects while coordinating with other disciplines to ensure quality and compliance.",
+      "key_skills": [
+        "substation",
+        "electrical",
+        "protection",
+        "control",
+        "design",
+        "physical_layout",
+        "quality_lead",
+        "project_management"
+      ],
+      "core_skills": [
+        "substation_design",
+        "electrical_protection",
+        "project_management",
+        "quality_assurance"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
@@ -503,6 +612,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "commercial-mortgage--bisnow-15847035": {
+      "summary": "Commercial mortgage brokers originate, structure, and close commercial real estate financing transactions end-to-end while leveraging existing relationships and building a national network of investors and developers.",
+      "key_skills": [
+        "commercial mortgage",
+        "real estate finance",
+        "debt structuring",
+        "negotiation",
+        "client relationship",
+        "capital markets",
+        "lender relationships",
+        "real estate"
+      ],
+      "core_skills": [
+        "debt structuring",
+        "negotiation",
+        "client relationship",
+        "lender relationships"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "commercial-property--bisnow-15847035": {
       "summary": "Performs regular property inspections, coordinates tenant onboarding and renewals, manages capital projects, and ensures financial compliance while maintaining strong tenant relationships.",
       "key_skills": [
@@ -527,6 +659,29 @@
       "work_mode_derived": "onsite"
     },
     "sr--manager-sales-to-groupon-15847035": {
+      "summary": "Sr. Manager of Sales Tooling & AI architects and optimizes Groupon's sales technology ecosystem, focusing on Salesforce and Salesloft to drive productivity and performance through AI-enabled automation and data governance.",
+      "key_skills": [
+        "salesforce",
+        "salesloft",
+        "sales_operations",
+        "ai",
+        "automation",
+        "data_governance",
+        "pipeline_management",
+        "forecasting"
+      ],
+      "core_skills": [
+        "strategic_architecture",
+        "sales_technology_optimization",
+        "ai_forward_solutioning",
+        "change_management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "sr--manager--sales-t-groupon-15847035": {
       "summary": "Sr. Manager of Sales Tooling & AI architects and optimizes Groupon's sales technology ecosystem, focusing on Salesforce and Salesloft to drive productivity and performance through AI-enabled automation and data governance.",
       "key_skills": [
         "salesforce",
@@ -1223,6 +1378,22 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "senior-fullstack-sof-vanta-67785757": {
+      "summary": "Senior Software Engineer leads complex projects, sets technical direction for scaling infrastructure, and mentors engineering teams to deliver high-value products for customer security and compliance.",
+      "key_skills": [
+        "typescript",
+        "react",
+        "nodejs"
+      ],
+      "core_skills": [
+        "technical leadership",
+        "complex project delivery"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "senior-ii-fullstack--vanta-67785757": {
       "summary": "Senior Software Engineer leads complex projects, sets technical direction for scaling infrastructure, and mentors engineering teams to deliver high-value products for customer security and compliance.",
       "key_skills": [
@@ -1354,6 +1525,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-software-engi-vanta-67785757": {
+      "summary": "Designs and builds scalable infrastructure to support rapid growth while ensuring security and reliability for Vanta's core systems.",
+      "key_skills": [
+        "infrastructure",
+        "security",
+        "aws",
+        "typescript",
+        "react",
+        "nodejs",
+        "mongodb",
+        "githubactions"
+      ],
+      "core_skills": [
+        "infrastructure design",
+        "cloud infrastructure",
+        "security infrastructure",
+        "performance optimization"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-speciality-ac-vanta-67785757": {
       "summary": "Specialty Account Executive drives federal compliance automation and risk management solutions for government vendors, acting as a subject matter expert on frameworks like CMMC, FedRAMP, NIST 800-53, and ITAR to close deals and support core sales teams.",
       "key_skills": [
@@ -1442,6 +1636,29 @@
         "on-call rotation"
       ],
       "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "staff-data-engineer-vanta-67785757": {
+      "summary": "Designs and implements complex data models, builds reporting tools, and develops scalable data infrastructure to support data-driven decision-making across the company.",
+      "key_skills": [
+        "data engineering",
+        "sql",
+        "data modeling",
+        "data infrastructure",
+        "data warehousing",
+        "aws",
+        "terraform",
+        "cdc"
+      ],
+      "core_skills": [
+        "data engineering",
+        "sql",
+        "data modeling",
+        "data infrastructure"
+      ],
+      "seniority_signal": "staff",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -1765,6 +1982,52 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "director--clinical-e-headway-67785757": {
+      "summary": "Owns end-to-end clinical education strategy to empower therapists and psychologists across Headway's network while improving clinical quality and retention through scalable learning programs.",
+      "key_skills": [
+        "clinical excellence",
+        "education",
+        "provider network",
+        "clinical quality",
+        "compliance",
+        "regulatory",
+        "learning management system",
+        "lms"
+      ],
+      "core_skills": [
+        "clinical credibility",
+        "adult learning",
+        "systems scaling",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "director",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "director-of-product--headway-67785757": {
+      "summary": "Builds and leads the product vision for Headway's customer experience system, focusing on AI-powered self-resolution, agent tooling, and proactive engagement to improve support efficiency and satisfaction.",
+      "key_skills": [
+        "product",
+        "ai",
+        "cx",
+        "support",
+        "automation",
+        "healthcare",
+        "insurance",
+        "mental_health"
+      ],
+      "core_skills": [
+        "product_strategy",
+        "ai_integration",
+        "customer_support",
+        "operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "manager--business-op-headway-67785757": {
       "summary": "Business Operations Manager leads cross-functional initiatives to design scalable systems and improve operational efficiency while driving measurable impact across high-growth mental healthcare technology company.",
       "key_skills": [
@@ -1995,6 +2258,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "senior-revenue-accou-headway-67785757": {
+      "summary": "Senior Revenue Accountant ensures accurate and compliant revenue accounting for a fast-growing company by managing ASC 606 revenue recognition, month-end close activities, and building scalable revenue processes while collaborating with cross-functional teams.",
+      "key_skills": [
+        "revenue accounting",
+        "asc 606",
+        "financial reporting",
+        "month-end close",
+        "revenue recognition",
+        "process automation",
+        "cross-functional collaboration",
+        "audit compliance"
+      ],
+      "core_skills": [
+        "asc 606",
+        "financial reporting",
+        "revenue recognition",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "strategic-finance-le-headway-67785757": {
       "summary": "Builds and maintains financial models to assess GTM investment efficiency, tracks performance, and surfaces insights for strategic resource allocation across Provider and Patient Growth initiatives.",
       "key_skills": [
@@ -2132,6 +2418,98 @@
       "role_type": "lead",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "funnel-optimization--enova-internati-27273247": {
+      "summary": "Owns analytical performance of the website, monitors key conversion funnels, troubleshoots changes, and drives improvements through data-driven testing and reporting.",
+      "key_skills": [
+        "funnel optimization",
+        "conversion rate optimization",
+        "web analytics",
+        "adobe analytics",
+        "sql",
+        "a/b testing",
+        "seo",
+        "content optimization"
+      ],
+      "core_skills": [
+        "web analytics",
+        "conversion rate optimization",
+        "a/b testing",
+        "sql"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "account-manager--gro-vanta-27273247": {
+      "summary": "Account Manager at Vanta focuses on expanding and retaining customer relationships by acting as a trusted advisor to align security and compliance solutions with customer business objectives through strategic partnerships and upsells.",
+      "key_skills": [
+        "security",
+        "compliance",
+        "customer_relationships",
+        "sales",
+        "advisory",
+        "consulting",
+        "product_management",
+        "strategic_partnership"
+      ],
+      "core_skills": [
+        "customer_relationships",
+        "sales",
+        "advisory",
+        "consulting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "agentic-ai-engineer-benchling-27273247": {
+      "summary": "Builds and ships enterprise agentic AI systems for biotech R&D, enabling cross-functional teams to integrate AI into their workflows while ensuring security and scalability.",
+      "key_skills": [
+        "ai",
+        "machine_learning",
+        "software_engineering",
+        "data_engineering",
+        "agentic_ai",
+        "ai_platforms",
+        "biotech",
+        "cloud_computing"
+      ],
+      "core_skills": [
+        "ai_fluency",
+        "technical_direction",
+        "production_code",
+        "enterprise_architecture"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "associate-principal--headway-27273247": {
+      "summary": "Supports growing care partners by managing executive steering committees, building relationships with health systems and medical clinics, leveraging data for insights, and collaborating with cross-functional teams to ensure partner satisfaction and growth.",
+      "key_skills": [
+        "healthcare",
+        "partner_management",
+        "customer_success",
+        "strategic_partnerships",
+        "data_analysis",
+        "relationship_building",
+        "operational_excellence",
+        "ambiguity_management"
+      ],
+      "core_skills": [
+        "healthcare",
+        "partner_management",
+        "customer_success",
+        "strategic_partnerships"
+      ],
+      "seniority_signal": "associate_principal",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     }
   }
 }
