@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-24T09:12:00.833654+00:00",
+    "built_at": "2026-05-25T09:10:45.239334+00:00",
     "total_jobs": 198,
-    "enriched": 127
+    "enriched": 141
   },
   "jobs": {
     "business-compliance--enova-internati-15847035": {
@@ -120,6 +120,29 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "senior-software-engi-enova-internati-15847035": {
+      "summary": "Senior Software Engineer designs and implements technical solutions to business problems, collaborates with engineers to build systems, mentors junior developers, and works with Product Management, Analytics, and Operations to deliver business value.",
+      "key_skills": [
+        "software engineering",
+        "microservices",
+        "api integration",
+        "enterprise architecture",
+        "production debugging",
+        "risk mitigation",
+        "project management",
+        "ai-assisted development"
+      ],
+      "core_skills": [
+        "object-oriented programming",
+        "full-stack development",
+        "enterprise architecture",
+        "api integration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "director-of-actuaria-honeycomb-insur-15847035": {
       "summary": "The Director of Actuarial leads pricing, reserving, and underwriting analysis while ensuring data quality and strategic alignment with business goals.",
       "key_skills": [
@@ -139,6 +162,29 @@
         "cross-functional collaboration"
       ],
       "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "revenue-operations-s-honeycomb-insur-15847035": {
+      "summary": "Owns and scales HubSpot CRM ecosystem and connected revenue tech stack to improve data compliance, cross-functional processes, automation, and end-to-end workflows for Customer Success, Sales, Partner Distribution, and Underwriting teams.",
+      "key_skills": [
+        "hubspot",
+        "crm",
+        "data hygiene",
+        "workflow optimization",
+        "data integrity",
+        "reporting",
+        "api integration",
+        "governance"
+      ],
+      "core_skills": [
+        "hubspot configuration",
+        "workflow automation",
+        "data management",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "mid",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
@@ -170,6 +216,29 @@
       "core_skills": [
         "attention_to_detail",
         "proactive_communication"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "manager--r-d-chomps-15847035": {
+      "summary": "Manages and develops a small R&D team, driving process improvements and product commercialization while ensuring consistent quality across manufacturing operations.",
+      "key_skills": [
+        "data_analysis",
+        "process_improvement",
+        "cross_functional_communication",
+        "problem_solving",
+        "quality_control",
+        "technical_support",
+        "team_leadership",
+        "product_development"
+      ],
+      "core_skills": [
+        "data_driven_decision_making",
+        "process_optimization",
+        "technical_execution",
+        "cross_functional_collaboration"
       ],
       "seniority_signal": "mid",
       "role_type": "manager",
@@ -290,6 +359,52 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "construction-superin-milhouseinc-15847035": {
+      "summary": "Supervises day-to-day construction activities and workforce while maintaining safety culture and project deliverables.",
+      "key_skills": [
+        "construction",
+        "safety",
+        "project_management",
+        "project_deliverables",
+        "safety_procedures",
+        "safety_inspection",
+        "safety_compliance",
+        "safety_audit"
+      ],
+      "core_skills": [
+        "safety",
+        "project_management",
+        "construction",
+        "safety_audit"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "director-of-construc-milhouseinc-15847035": {
+      "summary": "Directs construction management projects, oversees project delivery, budgets, quality assurance, and staff development while driving business development in construction administration.",
+      "key_skills": [
+        "construction management",
+        "project management",
+        "budgeting",
+        "quality assurance",
+        "schedule management",
+        "client relations",
+        "team leadership",
+        "staff development"
+      ],
+      "core_skills": [
+        "project delivery",
+        "budget management",
+        "quality assurance",
+        "client relations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "distribution-enginee-milhouseinc-15847035": {
       "summary": "Lead the design, analysis, and optimization of overhead and underground distribution systems (4–6.9 kV), ensuring engineering designs meet regulatory and quality standards while managing multiple complex projects.",
@@ -472,6 +587,29 @@
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--civil-engin-milhouseinc-15847035": {
+      "summary": "Provides technical leadership for civil engineering projects including runway, taxiway, and pavement design while supervising teams and ensuring project quality and compliance.",
+      "key_skills": [
+        "civil engineering",
+        "project management",
+        "technical leadership",
+        "design software",
+        "pavement design",
+        "runway design",
+        "deicing facilities",
+        "roadway design"
+      ],
+      "core_skills": [
+        "technical expertise",
+        "project management",
+        "team leadership",
+        "client relations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
@@ -897,6 +1035,52 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "senior-director-of-p-benchprep-15847035": {
+      "summary": "Senior Product Manager leads product strategy execution, team development, and cross-functional collaboration to drive revenue impact and adoption for a global learning platform.",
+      "key_skills": [
+        "product management",
+        "strategy",
+        "roadmap",
+        "execution",
+        "analytics",
+        "data science",
+        "customer focus",
+        "adoption"
+      ],
+      "core_skills": [
+        "product strategy",
+        "roadmap planning",
+        "cross-functional leadership",
+        "revenue impact"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "do-not-apply---busin-benchprep-80397866": {
+      "summary": "Manages accounting functions including reconciliations, journal entries, AR/AP, billing analysis, and financial reporting while ensuring GAAP compliance and regulatory adherence.",
+      "key_skills": [
+        "accounting",
+        "financial_analysis",
+        "reporting",
+        "revenue_recognition",
+        "gaap",
+        "budgeting",
+        "forecasting",
+        "audits"
+      ],
+      "core_skills": [
+        "financial_statement_preparation",
+        "gaap_compliance",
+        "revenue_recognition",
+        "accounting_systems"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "do-not-apply---influ-benchprep-80397866": {
       "summary": "Analyst works with data to drive business decisions through BI tools and data analysis.",
       "key_skills": [
@@ -943,6 +1127,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "software-engineer----modern-treasury-67785757": {
+      "summary": "Designs, deploys, and operates high-scale payment infrastructure using AWS, container orchestration, and automation to support multi-rail money movement and real-time payment systems.",
+      "key_skills": [
+        "aws",
+        "infrastructure",
+        "containerization",
+        "ci_cd",
+        "infrastructure_as_code",
+        "distributed_systems",
+        "observability",
+        "performance_tuning"
+      ],
+      "core_skills": [
+        "aws",
+        "infrastructure",
+        "containerization",
+        "ci_cd"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "backend-senior-softw-vanta-67785757": {
       "summary": "Senior Software Engineer leads and mentors engineers, delivering high-value products for customers and infrastructure to scale security monitoring capabilities.",
@@ -1287,6 +1494,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "lifecycle-marketing--vanta-67785757": {
+      "summary": "Owns lifecycle strategy and execution across email, in-product, and other channels to drive onboarding, activation, retention, and expansion for B2B customers.",
+      "key_skills": [
+        "lifecycle marketing",
+        "b2b marketing",
+        "product marketing",
+        "marketing automation",
+        "crm",
+        "data analysis",
+        "customer journey mapping",
+        "experimentation"
+      ],
+      "core_skills": [
+        "b2b lifecycle marketing",
+        "customer journey mapping",
+        "marketing automation",
+        "experimentation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "people-operations-sp-vanta-67785757": {
       "summary": "People Operations Specialist ensures data integrity, streamlines workflows through automation, and partners cross-functionally to improve internal processes and employee experience.",
       "key_skills": [
@@ -1444,6 +1674,29 @@
         "pipeline"
       ],
       "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-analyst--gtm--vanta-67785757": {
+      "summary": "Senior Analyst, GTM Analytics at Vanta partners with Sales, Overlay teams, and RevOps to analyze GTM performance, build scalable reporting, and improve revenue outcomes through data-driven insights.",
+      "key_skills": [
+        "sql",
+        "data_analysis",
+        "bi_tools",
+        "forecasting",
+        "propensity_modeling",
+        "sales_engineering",
+        "revenue_operations",
+        "gtm_analytics"
+      ],
+      "core_skills": [
+        "sql",
+        "bi_tools",
+        "forecasting",
+        "propensity_modeling"
+      ],
+      "seniority_signal": "senior",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -1871,6 +2124,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "staff-product-design-vanta-67785757": {
+      "summary": "Staff Product Designer at Vanta leads strategic projects to define AI-centric workflow builder experiences, partners cross-functionally to align on vision, and mentors designers while enhancing design systems for enterprise compliance solutions.",
+      "key_skills": [
+        "product_design",
+        "ai_centric",
+        "workflow_builder",
+        "compliance",
+        "b2b_saaS",
+        "customer_discovery",
+        "design_system",
+        "mentorship"
+      ],
+      "core_skills": [
+        "strategic_project_leads",
+        "customer_insights",
+        "design_strategy",
+        "systemic_thinking"
+      ],
+      "seniority_signal": "staff",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "staff-product-manage-vanta-67785757": {
       "summary": "Owns the IAM product vision and roadmap for authentication, authorization, and identity modeling across diverse customer bases from startups to federal agencies.",
       "key_skills": [
@@ -2138,6 +2414,29 @@
       ],
       "seniority_signal": "lead",
       "role_type": "lead",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "channel-manager---se-headway-67785757": {
+      "summary": "Owns end-to-end SEM program including campaign architecture, keyword strategy, bidding, and performance optimization across Google Ads and Microsoft Ads while scaling spend to $50M+ annually and optimizing for booked appointments through collaboration with Engineering and Data Science teams.",
+      "key_skills": [
+        "sem",
+        "google ads",
+        "microsoft ads",
+        "ai tools",
+        "at-scale",
+        "incrementality testing",
+        "geo-lift studies",
+        "full funnel optimization"
+      ],
+      "core_skills": [
+        "google ads",
+        "microsoft ads",
+        "sql",
+        "data analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
     },
@@ -2851,6 +3150,29 @@
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "associate-medical-di-headway-27273247": {
+      "summary": "Supports health plan partnerships and strategy while driving data analyses to prove patient outcomes and inform product development.",
+      "key_skills": [
+        "mental health",
+        "healthcare",
+        "software",
+        "billing",
+        "therapy",
+        "insurance",
+        "providers",
+        "clinical"
+      ],
+      "core_skills": [
+        "payer partnerships",
+        "data analysis",
+        "clinical strategy",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
