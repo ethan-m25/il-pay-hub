@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-25T09:10:45.239334+00:00",
+    "built_at": "2026-05-26T09:10:18.917079+00:00",
     "total_jobs": 198,
-    "enriched": 141
+    "enriched": 153
   },
   "jobs": {
     "business-compliance--enova-internati-15847035": {
@@ -45,6 +45,29 @@
         "regulatory compliance",
         "customer remediation",
         "data analysis"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "digital-performance--enova-internati-15847035": {
+      "summary": "Digital Performance Specialist improves website performance by monitoring conversion funnels, managing analytics tracking, creating reports, running optimization tests, and executing SEO/AEO tactics to support CashNetUSA brand.",
+      "key_skills": [
+        "digital performance",
+        "website analytics",
+        "conversion optimization",
+        "seo",
+        "aio",
+        "adobe analytics",
+        "tag management",
+        "html"
+      ],
+      "core_skills": [
+        "web analytics",
+        "conversion funnel optimization",
+        "a/b testing",
+        "seo strategy"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
@@ -183,6 +206,26 @@
         "workflow automation",
         "data management",
         "cross-functional collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "underwriter--midwest-honeycomb-insur-15847035": {
+      "summary": "Daily tasks include quoting and releasing new/renewal business, analyzing policy changes, ensuring regulatory compliance, maintaining team communication, monitoring portfolio composition, supporting marketing, and completing special projects.",
+      "key_skills": [
+        "ai",
+        "data",
+        "underwriting",
+        "risk",
+        "insurance",
+        "commercial"
+      ],
+      "core_skills": [
+        "underwriting",
+        "risk",
+        "insurance"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
@@ -590,6 +633,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "gas-engineering-iii-milhouseinc-15847035": {
+      "summary": "The Gas Engineering III leads complex natural gas pipeline design and construction projects from conception to completion, ensuring regulatory compliance, safety standards, and client satisfaction through technical oversight and project management.",
+      "key_skills": [
+        "pipeline design",
+        "project management",
+        "regulatory compliance",
+        "safety standards",
+        "budget management",
+        "client relations",
+        "technical oversight",
+        "multi-disciplinary coordination"
+      ],
+      "core_skills": [
+        "project management",
+        "regulatory compliance",
+        "safety standards",
+        "client relations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "manager--civil-engin-milhouseinc-15847035": {
       "summary": "Provides technical leadership for civil engineering projects including runway, taxiway, and pavement design while supervising teams and ensuring project quality and compliance.",
       "key_skills": [
@@ -727,6 +793,27 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "substation-engineeri-milhouseinc-15847035": {
+      "summary": "Designs and implements substation systems for high voltage projects, collaborating with civil engineering teams to develop efficient and reliable solutions.",
+      "key_skills": [
+        "electrical design",
+        "physical layout",
+        "calculations",
+        "substation systems",
+        "bus layouts",
+        "equipment arrangements",
+        "protection/control",
+        "grounding"
+      ],
+      "core_skills": [
+        "electrical engineering",
+        "substation design"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "vice-president--avia-milhouseinc-15847035": {
       "summary": "The Vice President of Aviation leads strategic planning, project execution, and team development for aviation engineering projects while ensuring regulatory compliance and profitability.",
@@ -1104,6 +1191,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "partner-consultant-ramp-67785757": {
+      "summary": "Partner Consultant who collaborates with channel partners to provide technical accounting expertise, build integrations, and advise on financial workflows for Ramp's customers",
+      "key_skills": [
+        "api_architecting",
+        "solutions_architecture",
+        "partner_consulting",
+        "channel_sales",
+        "solutions_engineering",
+        "technical_specification",
+        "finance_systems",
+        "erp_integration"
+      ],
+      "core_skills": [
+        "api_architecting",
+        "solutions_architecture",
+        "partner_consulting",
+        "channel_sales"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "procurement-architec-ramp-67785757": {
       "summary": "Solutions Architect, Procurement (Pre-Sales, Enterprise) leads technical discovery and solution design for procurement workflows, ensuring seamless handoff to onboarding for enterprise clients.",
@@ -1894,6 +2004,96 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-manager--reve-vanta-67785757": {
+      "summary": "Senior Manager leads 7 GTM recruiters to drive hiring across Pre and Post sales teams in North America while partnering with leadership to prioritize talent acquisition and meet quarterly goals.",
+      "key_skills": [
+        "recruiting",
+        "talent",
+        "hiring",
+        "gathering",
+        "data",
+        "metrics",
+        "stakeholder"
+      ],
+      "core_skills": [
+        "leadership",
+        "strategic_planning",
+        "problem_solving",
+        "metrics_driven"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-manager--secu-vanta-67785757": {
+      "summary": "Senior Manager of Security leads security engineering team to implement robust security protocols, assess risks, and ensure secure product development through engineering-driven, human-centric approaches.",
+      "key_skills": [
+        "security engineering",
+        "application security",
+        "ai security",
+        "sast",
+        "dast",
+        "owasp top 10",
+        "nist 800-53",
+        "gdpr",
+        "iso 27001"
+      ],
+      "core_skills": [
+        "leadership",
+        "risk assessment",
+        "compliance",
+        "security operations"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-manager--stra-vanta-67785757": {
+      "summary": "Owns marketing strategy and growth for AWS and strategic VAR partners, building executive relationships and driving revenue through joint business plans and campaigns.",
+      "key_skills": [
+        "aws",
+        "partner_marketing",
+        "strategic_partnerships",
+        "revenue_growth",
+        "joint_go_to_market",
+        "pipeline_acceleration",
+        "account_based_marketing",
+        "executive_relationships"
+      ],
+      "core_skills": [
+        "strategic_planning",
+        "cross_functional_stakeholder_management",
+        "revenue_optimization",
+        "executive_influence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-marketing-ana-vanta-67785757": {
+      "summary": "Senior Marketing Analyst builds scalable reporting capabilities for marketing teams, transforms complex marketing data into actionable insights, and enables data-driven decision-making to improve marketing ROI.",
+      "key_skills": [
+        "sql",
+        "salesforce",
+        "marketing_automation",
+        "tableau",
+        "dbt",
+        "python",
+        "r"
+      ],
+      "core_skills": [
+        "analytical_mindset",
+        "action_oriented",
+        "communication_skills"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-procurement-a-vanta-67785757": {
       "summary": "Senior Procurement Analyst partners with internal teams to guide purchasing decisions, lead vendor negotiations, and optimize procurement processes while ensuring cost efficiency and strong vendor relationships.",
       "key_skills": [
@@ -1911,6 +2111,28 @@
         "contract_negotiation",
         "procure_to_pay",
         "process_optimization"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-desig-vanta-67785757": {
+      "summary": "Senior Product Designer at Vanta drives user-centric projects in a rapidly scaling company trusted by hundreds of organizations to protect their most critical data, working closely with Engineering and Product Managers to create intuitive interfaces for complex workflows.",
+      "key_skills": [
+        "product design",
+        "ui",
+        "ux",
+        "system thinking",
+        "accessibility",
+        "figma",
+        "ai"
+      ],
+      "core_skills": [
+        "system thinking",
+        "accessibility",
+        "figma",
+        "ui/ux"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
@@ -2072,6 +2294,25 @@
         "customer experience",
         "rapid iteration",
         "on-call rotation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "solutions-engineer---vanta-67785757": {
+      "summary": "Solutions Engineer leads technical discussions with customers to ensure seamless adoption of Vanta's security solutions, develops deep product understanding, and drives technical evaluations for pre-sales engagements.",
+      "key_skills": [
+        "solutions engineering",
+        "cloud platforms",
+        "scripting languages",
+        "project management",
+        "cybersecurity"
+      ],
+      "core_skills": [
+        "technical discussion",
+        "customer relationship",
+        "product capabilities"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
@@ -2552,6 +2793,29 @@
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "executive-recruiting-headway-67785757": {
+      "summary": "Owns end-to-end candidate experience for senior and executive level searches, managing complex scheduling across multiple stakeholders and ensuring a seamless interview process.",
+      "key_skills": [
+        "executive_recruiting",
+        "candidate_experience",
+        "scheduling",
+        "multi_timezone_coordination",
+        "executive_search",
+        "candidate_logistics",
+        "interview_coordination",
+        "pipeline_management"
+      ],
+      "core_skills": [
+        "scheduling",
+        "candidate_experience",
+        "multi_timezone_coordination",
+        "executive_search"
+      ],
+      "seniority_signal": "executive",
+      "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "remote"
     },
