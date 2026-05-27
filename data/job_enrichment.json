@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-26T09:10:18.917079+00:00",
-    "total_jobs": 198,
-    "enriched": 153
+    "built_at": "2026-05-27T09:08:27.361812+00:00",
+    "total_jobs": 216,
+    "enriched": 162
   },
   "jobs": {
     "business-compliance--enova-internati-15847035": {
@@ -3459,6 +3459,209 @@
         "strategic_partnerships"
       ],
       "seniority_signal": "associate_principal",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "administrative-assis-harrisonst-50332821": {
+      "summary": "Administrative assistant provides comprehensive support to the Business Technology Group by facilitating operational activities, vendor management, communications coordination, and travel/expense reporting.",
+      "key_skills": [
+        "administrative support",
+        "invoice processing",
+        "vendor management",
+        "contract tracking",
+        "meeting coordination",
+        "document management",
+        "communication coordination",
+        "expense reporting"
+      ],
+      "core_skills": [
+        "organizational skills",
+        "documentation skills",
+        "communication skills",
+        "collaboration tools"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "assistant-vice-presi-harrisonst-50332821": {
+      "summary": "Full stack developer who designs and implements interactive user interfaces using modern front-end frameworks and builds server-side logic, manages databases, and creates RESTful APIs while collaborating with data engineers and stakeholders to translate requirements into functional features.",
+      "key_skills": [
+        "html",
+        "css",
+        "typescript",
+        "javascript",
+        "react",
+        "angular",
+        "vue",
+        "node.js"
+      ],
+      "core_skills": [
+        "full-stack",
+        "data-engineering",
+        "machine-learning",
+        "data-visualization",
+        "cybersecurity"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "avp--ai-engineer--in-harrisonst-50332821": {
+      "summary": "Designs, builds, and deploys production-grade AI/ML systems to enhance decision-making through RAG architectures, agentic AI workflows, and multi-model orchestration pipelines.",
+      "key_skills": [
+        "ai",
+        "ml",
+        "machine learning",
+        "data engineering",
+        "cloud",
+        "generative ai",
+        "llm",
+        "retrieval augmented generation"
+      ],
+      "core_skills": [
+        "ai engineering",
+        "data pipelines",
+        "cloud platforms",
+        "regulatory compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "avp-vp--asset-manage-harrisonst-50332821": {
+      "summary": "Oversees and manages wholly-owned and joint venture investments in the US, including property management and partner relationships, while coordinating property refinancings, asset dispositions, and new development oversight.",
+      "key_skills": [
+        "real estate",
+        "financial analysis",
+        "capital markets",
+        "debt financing",
+        "property dispositions",
+        "leasing",
+        "new development oversight",
+        "medical real estate"
+      ],
+      "core_skills": [
+        "financial analysis",
+        "capital markets",
+        "debt financing",
+        "medical real estate"
+      ],
+      "seniority_signal": "vp",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-associate--in-harrisonst-50332821": {
+      "summary": "Manages end-to-end project execution for building certifications and coordinates data collection, documentation, and submission processes across stakeholders.",
+      "key_skills": [
+        "esg",
+        "certification",
+        "project_management",
+        "data_collection",
+        "documentation",
+        "submission_processes",
+        "portfolio_goals",
+        "regulatory_commitments"
+      ],
+      "core_skills": [
+        "project_management",
+        "data_driven_decision_making",
+        "analytical_mindset",
+        "communication_skills"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "vice-president--asse-harrisonst-50332821": {
+      "summary": "Manages relationships with operating partners and property managers, oversees property refinancings, formulates property-level strategies, and mentors junior professionals in real estate investment.",
+      "key_skills": [
+        "real estate",
+        "capital markets",
+        "financial analysis",
+        "leasing",
+        "new development oversight",
+        "digital"
+      ],
+      "core_skills": [
+        "quantitative analysis",
+        "financial analysis",
+        "strategic planning",
+        "relationship management"
+      ],
+      "seniority_signal": "vp",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "vice-president--even-harrisonst-50332821": {
+      "summary": "Plans and executes high-profile investor conferences and client experiences while elevating brand through personalized touchpoints and strategic partnerships with senior leadership.",
+      "key_skills": [
+        "event_planning",
+        "experiential_marketing",
+        "hospitality",
+        "client_engagement",
+        "investor_relations",
+        "brand_elevate",
+        "gifting",
+        "hospitality"
+      ],
+      "core_skills": [
+        "project_management",
+        "vendor_management",
+        "event_execution",
+        "creative_execution"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "vp-director--infrast-harrisonst-50332821": {
+      "summary": "This person originates, underwrites, and manages infrastructure investments while leading transaction execution, asset management, and due diligence for portfolio companies.",
+      "key_skills": [
+        "excel",
+        "financial modeling",
+        "infrastructure",
+        "project finance",
+        "transaction execution",
+        "asset management",
+        "due diligence",
+        "portfolio management"
+      ],
+      "core_skills": [
+        "infrastructure sector expertise",
+        "transaction execution",
+        "asset management",
+        "due diligence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "chief-technology-off-civis-analytics-72655660": {
+      "summary": "The CTO leads technical vision, architecture, and execution for AI product expansion while ensuring data infrastructure strength and guiding teams toward AI-centric development.",
+      "key_skills": [
+        "ai",
+        "cloud",
+        "data",
+        "engineering",
+        "product"
+      ],
+      "core_skills": [
+        "technical",
+        "leadership",
+        "architecture",
+        "strategy"
+      ],
+      "seniority_signal": "executive",
       "role_type": "executive",
       "red_flags": [],
       "work_mode_derived": "remote"
