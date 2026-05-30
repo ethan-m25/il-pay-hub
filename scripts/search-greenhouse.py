@@ -20,6 +20,7 @@ from datetime import date, timedelta
 sys.path.insert(0, os.path.dirname(__file__))
 from _common import (
     make_logger, acquire_lock, load_existing_keys,
+    load_existing_urls,
     write_job, TODAY, OUTPUT_FILE, IL_TERMS, _NON_IL_LOC_TERMS,
 )
 
@@ -32,50 +33,10 @@ LOOKBACK_DATE = (date.today() - timedelta(days=60)).isoformat() + "T00:00:00.000
 log = make_logger(LOG_FILE)
 fetcher = Fetcher()
 
-SEED_SLUGS = [
-    # ── Chicago HQ / Native ───────────────────────────────────────────────────
-    ("sproutsocialprospects", "Sprout Social"),    # Sprout Social — Chicago HQ (social media SaaS)
-    ("tempus", None),                              # Tempus — Chicago HQ (AI healthcare)
-    ("enova", "Enova International"),              # Enova International — Chicago HQ (fintech)
-    ("cameo", None),                               # Cameo — Chicago HQ (celebrity video)
-    ("gohealth", "GoHealth"),                      # GoHealth — Chicago (insurance marketplace)
-    ("greenthumbindustries", "Green Thumb"),       # Green Thumb Industries — Chicago (cannabis)
-    ("waltzhealth", "Waltz Health"),               # Waltz Health — Chicago (pharmacy tech)
-    ("honeycombinsurance", "Honeycomb Insurance"), # Honeycomb Insurance — Chicago (insurtech)
-    ("cpm", "Chicago Public Media"),               # Chicago Public Media — WBEZ
-    ("suntimes", "Chicago Sun-Times"),             # Chicago Sun-Times
-    ("chompscareers", "Chomps"),                   # Chomps — Chicago (healthy snacks)
-    ("metropolis", "Metropolis"),                  # Metropolis — Chicago (parking AI)
-    ("kellerpostman", "Keller Postman"),           # Keller Postman — Chicago (law firm)
-    ("climatecabinet", "Climate Cabinet"),         # Climate Cabinet — Chicago (civic tech)
-    ("civisanalytics", "Civis Analytics"),         # Civis Analytics — Chicago (data science)
-    ("morningstar", None),                         # Morningstar — Chicago HQ (investment research)
-    ("grubhub", None),                             # Grubhub — Chicago HQ (food delivery)
-    ("avant", None),                               # Avant — Chicago HQ (online lending)
-    ("clearcover", "Clearcover"),                  # Clearcover — Chicago (auto insurance)
-    ("vividseatsinc", "Vivid Seats"),              # Vivid Seats — Chicago (ticketing)
-    ("gogoair", "Gogo"),                           # Gogo Business Aviation — Chicago
-    ("progrexion", None),                          # Progrexion — Chicago (credit repair)
-    ("harrisons", "Harrison Street"),              # Harrison Street — Chicago (real estate)
-    ("gravitypayments", "Gravity Payments"),       # Gravity Payments — Chicago office
-    ("zebra", "Zebra Technologies"),               # Zebra Technologies — Lincolnshire, IL
-    ("catalina", "Catalina Marketing"),            # Catalina — Chicago (retail media)
-    ("grainger", "W.W. Grainger"),                 # W.W. Grainger — Lake Forest, IL
-    ("zoro", "Zoro Tools"),                        # Zoro Tools — Buffalo Grove, IL (subsidiary of Grainger)
-    ("unlock-health", "Unlock Health"),            # Unlock Health — Chicago (healthcare marketing)
-    ("outcomesforlife", "Outcomes"),               # Outcomes — Chicago (pharmacy software)
-    ("builtinintegrationsandbox", "BenchPrep"),    # BenchPrep — Chicago (edtech)
-    ("propublica", "ProPublica"),                  # ProPublica — Chicago office, IL salary shown
-    # ── National companies posting IL-compliant salary ────────────────────────
-    ("doordashusa", "DoorDash"),                   # DoorDash — posts IL salary
-    ("groupon", "Groupon"),                        # Groupon — Chicago, uses eu.greenhouse.io
-    ("imc", "IMC Trading"),                        # IMC Trading — Chicago (trading firm)
-    ("dvtrading", "DV Trading"),                   # DV Trading — Chicago (prop trading)
-    ("aquaticcapitalmanagement", "Aquatic Capital"), # Aquatic Capital — Chicago (quantitative trading)
-    ("88fourthward", "88 Fourth Ward"),            # Political/civic tech, Chicago
-    ("benchprep", "BenchPrep"),                    # BenchPrep — Chicago edtech
-    ("manyawards", "Many Awards"),                 # check
-]
+# === Phase 4 seed loader (added 2026-05-27) ===
+sys.path.insert(0, os.path.expanduser('~/shared-scripts'))
+from hub_employer_seeds import load_greenhouse_seeds
+SEED_SLUGS = load_greenhouse_seeds('il')
 
 
 SALARY_PATTERNS = [
@@ -241,6 +202,7 @@ def main():
 
     log("=== IL Greenhouse scraper started ===")
     existing = load_existing_keys()
+    existing_urls = load_existing_urls()
     log(f"Existing dedup keys: {len(existing)}")
 
     new_count = 0
@@ -248,11 +210,14 @@ def main():
         log(f"[{slug}] fetching...")
         jobs = fetch_company_jobs(slug, name_override)
         for job in jobs:
+            if job.get("source_url") in existing_urls:
+                continue
             key = f"{job['role'].lower().strip()}|{job['company'].lower().strip()}"
             if key in existing:
                 continue
             write_job(OUTPUT_FILE, job)
             existing.add(key)
+            existing_urls.add(job.get("source_url", ""))
             new_count += 1
             log(f"  + {job['role']} @ {job['company']} | ${job['min']:,}–${job['max']:,} | {job['location']}")
         time.sleep(0.5)
