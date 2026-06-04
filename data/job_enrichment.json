@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-03T11:50:50.612566+00:00",
-    "total_jobs": 889,
-    "enriched": 562
+    "built_at": "2026-06-04T09:29:12.462146+00:00",
+    "total_jobs": 912,
+    "enriched": 578
   },
   "jobs": {
     "business-compliance--enova-internati-15847035": {
@@ -3350,6 +3350,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "senior-software-engi-salesforce--inc-54471887": {
+      "summary": "Senior Software Engineer works on a mature production-grade C codebase for real-time financial messaging middleware, implementing features and fixes while ensuring system reliability and performance.",
+      "key_skills": [
+        "c",
+        "c++",
+        "concurrency",
+        "thread_synchronization",
+        "performance_optimization",
+        "debugging",
+        "networking_protocols",
+        "udp_multicast"
+      ],
+      "core_skills": [
+        "c",
+        "concurrency",
+        "performance_optimization",
+        "debugging"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "manager--sales-devel-salesforce--inc-54471887": {
       "summary": "unknown",
@@ -8722,6 +8745,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-account-execu-aetna-resources-64061688": {
+      "summary": "Develops and implements account management and cross/up sell strategies to build and maintain strong external and internal relationships to achieve customer satisfaction, revenue, membership, and earnings objectives for existing customers in assigned business segments, products, and geographies.",
+      "key_skills": [
+        "account management",
+        "cross sell",
+        "renewal process",
+        "customer retention",
+        "upsell activities",
+        "financial strategy",
+        "client relationship management",
+        "strategic planning"
+      ],
+      "core_skills": [
+        "client retention",
+        "renewal process",
+        "upsell activities",
+        "financial strategy"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "supplemental-health--aetna-resources-64061688": {
       "summary": "Develops and implements sales strategies to sell Supplemental Health products to large group accounts and public entities in assigned geographic areas.",
       "key_skills": [
@@ -10139,6 +10185,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "senior-manager--fina-wonder-group--i-64061688": {
+      "summary": "Senior Manager leads strategic finance initiatives, owns financial planning and performance for key business areas, and partners with executives to drive data-informed decisions and business growth.",
+      "key_skills": [
+        "strategic_finance",
+        "fpam",
+        "financial_planning",
+        "budgeting",
+        "forecasting",
+        "p&l_management",
+        "financial_modeling",
+        "analytical_rigor"
+      ],
+      "core_skills": [
+        "strategic_thinking",
+        "operational_rigor",
+        "leadership",
+        "cross_functional_partnership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "manager--quality---i-grubhub-holding-64061688": {
       "summary": "Manages Quality and Insights teams to drive operational excellence, regulatory compliance, and AI-driven customer experience monitoring across brands.",
       "key_skills": [
@@ -10725,6 +10794,25 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "1099-bath-installer-renuity-64061689": {
+      "summary": "Installs Kohler LuxStone products following Renuity standards and procedures while ensuring customer satisfaction through communication and completion checklists.",
+      "key_skills": [
+        "remodeling",
+        "carpentry",
+        "construction",
+        "acrylic baths",
+        "stone panels",
+        "walk-in tubs"
+      ],
+      "core_skills": [
+        "installation",
+        "customer satisfaction"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "1099-kitchen-install-renuity-64061689": {
       "summary": "Installs home remodeling products according to Mad City's standards and procedures, applies finish work, communicates with management for customer satisfaction and final payments, and completes job checklists with homeowners.",
@@ -11866,6 +11954,29 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "support-operations-e-harvey-50115429": {
+      "summary": "Builds and maintains enablement content across the full learning lifecycle to help support specialists ramp quickly and keep growing with the product.",
+      "key_skills": [
+        "agentic ai",
+        "enterprise platform",
+        "domain expertise",
+        "learning lifecycle",
+        "content creation",
+        "instructional design",
+        "rapid product releases",
+        "support enablement"
+      ],
+      "core_skills": [
+        "content creation",
+        "instructional design",
+        "rapid product releases",
+        "support enablement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "support-operations-m-harvey-50115429": {
       "summary": "Builds and scales support systems, processes, and cross-functional partnerships to ensure high-quality customer support as the business grows",
       "key_skills": [
@@ -12487,26 +12598,94 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
-    "head-of-data-analyti-asana-83312545": {
-      "summary": "Leads global analytics function to ensure business decisions are data-driven, oversees Marketing, Growth, and Revenue analytics teams, and drives AI-powered analytics adoption across stakeholders.",
+    "associate-regional-s-honeycombinsura-83312545": {
+      "summary": "Qualifies prospective insurance agencies, drives appointment processes, onboards new partners, and resolves technical and transactional issues to grow the habitational insurance market.",
       "key_skills": [
-        "data analytics",
-        "ai",
-        "machine learning",
-        "business intelligence",
-        "metric definition",
-        "self-serve analytics",
-        "agentic ai",
-        "analytics strategy"
+        "insurance",
+        "partner_management",
+        "onboarding",
+        "sales",
+        "technical_support",
+        "product_roadmap",
+        "hhabitational_insurance",
+        "b2b_saaS"
       ],
       "core_skills": [
-        "strategic leadership",
-        "cross-functional collaboration",
-        "data governance",
-        "ai implementation"
+        "partner_qualification",
+        "issue_resolution",
+        "growth_drivers"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "futures-risk-program-robinhood-83312545": {
+      "summary": "Designs and implements comprehensive risk management strategies including automated alert systems, real-time monitoring, and regulatory compliance frameworks to ensure robust financial risk mitigation.",
+      "key_skills": [
+        "risk management",
+        "compliance",
+        "regulatory",
+        "futures",
+        "python",
+        "data pipelines",
+        "real-time monitoring",
+        "analytics"
+      ],
+      "core_skills": [
+        "risk assessment",
+        "automated alerts",
+        "control testing",
+        "regulatory compliance"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "enterprise-sales-man-asana-83312545": {
+      "summary": "Enterprise Sales Manager leads and implements initiatives to energize business growth and scale sales programs for State, Local & Education (SLED) customers by collaborating with marketing, product, and customer success teams to overcome technical, educational, and competitive challenges.",
+      "key_skills": [
+        "enterprise sales",
+        "sled",
+        "customer centricity",
+        "revenue growth",
+        "gtm playbook",
+        "strategic deals",
+        "product feedback",
+        "talent coaching"
+      ],
+      "core_skills": [
+        "sales leadership",
+        "strategic partnership",
+        "enterprise qualification",
+        "account planning"
       ],
       "seniority_signal": "senior",
-      "role_type": "executive",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "manager--portfolio-h-rewardsnetwork-83312545": {
+      "summary": "Manages a team to resolve payment processing interruptions and banking issues for restaurant clients, ensuring revenue protection and client retention through proactive issue resolution and cross-functional collaboration.",
+      "key_skills": [
+        "portfolio health",
+        "client relationships",
+        "payment processing",
+        "accounts receivable",
+        "business interruptions",
+        "troubleshooting",
+        "escalation management",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "team management",
+        "performance monitoring",
+        "process oversight",
+        "issue resolution"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
@@ -12533,6 +12712,95 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "sr-lead-software-eng-capital-one-83312546": {
+      "summary": "Leads a team of developers building distributed microservices and full-stack cloud solutions for financial services transformation with mentorship and technical leadership.",
+      "key_skills": [
+        "javascript",
+        "java",
+        "typescript",
+        "sql",
+        "python",
+        "go",
+        "aws",
+        "cloud"
+      ],
+      "core_skills": [
+        "cloud computing",
+        "microservices",
+        "full stack",
+        "agile"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "lead",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "remote-full-stack-en-hirevector-83312546": {
+      "summary": "Crafts robust, scalable solutions and creates seamless integrations for applications while collaborating with cross-functional teams to deliver innovative products.",
+      "key_skills": [
+        "react",
+        "ruby on rails",
+        "node.js",
+        "python/django",
+        "postgresql",
+        "sql",
+        "nosql",
+        "schema design"
+      ],
+      "core_skills": [
+        "full stack development",
+        "database management",
+        "debugging",
+        "analytical skills"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "director--business-a-schwab-83312546": {
+      "summary": "Directs operational design and strategic planning for digital asset initiatives, translating product strategy into scalable operating models and delivery roadmaps while bridging traditional and decentralized finance frameworks.",
+      "key_skills": [
+        "digital asset operations",
+        "decentralized finance",
+        "operational design",
+        "strategic planning",
+        "business requirements",
+        "workflow optimization",
+        "regulatory compliance",
+        "on-chain primitives"
+      ],
+      "core_skills": [
+        "cross-functional leadership",
+        "strategic insight",
+        "operational execution",
+        "regulatory frameworks"
+      ],
+      "seniority_signal": "director",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "clinical-research-co-the-ima-group-83312546": {
+      "summary": "Coordinates clinical trials per protocol and SOPs, communicates with sponsors and site staff, ensures accurate documentation, and reports adverse events.",
+      "key_skills": [
+        "clinical research",
+        "phlebotomy",
+        "cns",
+        "psychiatry",
+        "psychology",
+        "social work"
+      ],
+      "core_skills": [
+        "clinical trial coordination",
+        "alcoa documentation",
+        "adverse event reporting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "rise-cloud-architect-sap-83312546": {
       "summary": "Supports strategic customers during cloud sales cycles by presenting RISE Private Cloud offerings, building cloud roadmaps, and conducting technical assessments.",
       "key_skills": [
@@ -12548,6 +12816,98 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "creative---design-op-enova-64760959": {
+      "summary": "Owns operational infrastructure and execution for Enova Studios, bridging Creative Ops and DesignOps to ensure seamless creative production and product/UX design workflows.",
+      "key_skills": [
+        "creative ops",
+        "design ops",
+        "agile",
+        "jira",
+        "asana",
+        "ai automation",
+        "workflow optimization",
+        "vendor management"
+      ],
+      "core_skills": [
+        "creative operations",
+        "design operations",
+        "agile methodologies",
+        "tool stack management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "head-of-data-analyti-asana-64760959": {
+      "summary": "Leads global analytics function to ensure critical business decisions are grounded in trusted data, oversees Marketing, Growth, and Revenue analytics teams, and drives AI-powered analytics adoption across stakeholders.",
+      "key_skills": [
+        "data analytics",
+        "ai",
+        "machine learning",
+        "business intelligence",
+        "metric definition",
+        "data engineering",
+        "self-serve analytics",
+        "analytics strategy"
+      ],
+      "core_skills": [
+        "strategic leadership",
+        "cross-functional collaboration",
+        "ai-augmented analytics",
+        "business intelligence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "people-solutions-gen-braze-64760959": {
+      "summary": "The People Solutions Generalist supports employee experience and People team success by driving change across the department to meet business goals, overseeing AMER region operations, and managing global mobility and immigration cases.",
+      "key_skills": [
+        "people operations",
+        "employee experience",
+        "global mobility",
+        "immigration",
+        "hris",
+        "process improvement",
+        "cross-functional collaboration",
+        "service orientation"
+      ],
+      "core_skills": [
+        "attention to detail",
+        "organizational skills",
+        "analytical abilities",
+        "project management"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "legal-engineer---cus-harvey-64760960": {
+      "summary": "Builds tailored AI tools for strategic customers by scoping, designing, and implementing custom agents, playbooks, and prompts while collaborating with Go-to-Market and Product teams.",
+      "key_skills": [
+        "ai",
+        "legal",
+        "custom_solutions",
+        "prompt_engineering",
+        "playbooks",
+        "agents",
+        "legal_engineering",
+        "strategic_customers"
+      ],
+      "core_skills": [
+        "legal",
+        "communication",
+        "stakeholder_management",
+        "ai_tool_usage"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     }
   }
 }
