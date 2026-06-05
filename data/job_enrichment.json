@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-04T09:29:12.462146+00:00",
-    "total_jobs": 912,
-    "enriched": 578
+    "built_at": "2026-06-05T09:34:20.167068+00:00",
+    "total_jobs": 937,
+    "enriched": 577
   },
   "jobs": {
     "business-compliance--enova-internati-15847035": {
@@ -12643,29 +12643,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "enterprise-sales-man-asana-83312545": {
-      "summary": "Enterprise Sales Manager leads and implements initiatives to energize business growth and scale sales programs for State, Local & Education (SLED) customers by collaborating with marketing, product, and customer success teams to overcome technical, educational, and competitive challenges.",
-      "key_skills": [
-        "enterprise sales",
-        "sled",
-        "customer centricity",
-        "revenue growth",
-        "gtm playbook",
-        "strategic deals",
-        "product feedback",
-        "talent coaching"
-      ],
-      "core_skills": [
-        "sales leadership",
-        "strategic partnership",
-        "enterprise qualification",
-        "account planning"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "manager--portfolio-h-rewardsnetwork-83312545": {
       "summary": "Manages a team to resolve payment processing interruptions and banking issues for restaurant clients, ensuring revenue protection and client retention through proactive issue resolution and cross-functional collaboration.",
       "key_skills": [
@@ -12840,29 +12817,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "head-of-data-analyti-asana-64760959": {
-      "summary": "Leads global analytics function to ensure critical business decisions are grounded in trusted data, oversees Marketing, Growth, and Revenue analytics teams, and drives AI-powered analytics adoption across stakeholders.",
-      "key_skills": [
-        "data analytics",
-        "ai",
-        "machine learning",
-        "business intelligence",
-        "metric definition",
-        "data engineering",
-        "self-serve analytics",
-        "analytics strategy"
-      ],
-      "core_skills": [
-        "strategic leadership",
-        "cross-functional collaboration",
-        "ai-augmented analytics",
-        "business intelligence"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "hybrid"
-    },
     "people-solutions-gen-braze-64760959": {
       "summary": "The People Solutions Generalist supports employee experience and People team success by driving change across the department to meet business goals, overseeing AMER region operations, and managing global mobility and immigration cases.",
       "key_skills": [
@@ -12903,6 +12857,29 @@
         "communication",
         "stakeholder_management",
         "ai_tool_usage"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "growth-account-execu-webflow-51089789": {
+      "summary": "Growth Account Executive owns and closes complex SaaS deals with companies ranging from 50 to 300 employees through proactive prospecting, stakeholder engagement, and full sales cycle execution.",
+      "key_skills": [
+        "sales",
+        "prospecting",
+        "pipeline",
+        "outbound",
+        "stakeholder",
+        "negotiation",
+        "sales_cycle",
+        "multi_stakeholder"
+      ],
+      "core_skills": [
+        "sales",
+        "prospecting",
+        "pipeline",
+        "outbound"
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
