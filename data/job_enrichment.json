@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-05T09:34:20.167068+00:00",
-    "total_jobs": 937,
-    "enriched": 577
+    "built_at": "2026-06-06T09:22:26.565617+00:00",
+    "total_jobs": 948,
+    "enriched": 582
   },
   "jobs": {
     "business-compliance--enova-internati-15847035": {
@@ -12883,6 +12883,119 @@
       ],
       "seniority_signal": "mid",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "enterprise-sales-man-asana-51089789": {
+      "summary": "Enterprise Sales Manager leads and implements initiatives to energize business growth and scale sales programs for State, Local & Education (SLED) customers, working closely with marketing, product, and customer success teams to identify and overcome technical, educational, and competitive challenges.",
+      "key_skills": [
+        "sales",
+        "enterprise",
+        "sled",
+        "governance",
+        "strategy",
+        "revenue",
+        "coaching",
+        "account"
+      ],
+      "core_skills": [
+        "sales",
+        "revenue"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "account-executive--s-intercom-51089789": {
+      "summary": "Owns the full sales cycle for net-new business in the 0–50 FTE segment from prospecting to close, identifies high-potential prospects, develops territory plans, builds pipeline, and partners with Marketing and Solutions Engineers.",
+      "key_skills": [
+        "sales",
+        "saaS",
+        "pipeline",
+        "forecasting",
+        "prospecting",
+        "closing",
+        "quoting",
+        "negotiation"
+      ],
+      "core_skills": [
+        "sales",
+        "saaS",
+        "pipeline",
+        "forecasting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "pre-sales-senior-eng-intercom-51089789": {
+      "summary": "Pre-Sales Senior Engagement Manager shapes how Fin brings AI solutions to customers before contracts are signed by leading services scoping with customers and sales teams to define deployment approaches that balance speed, adoption, and long-term value.",
+      "key_skills": [
+        "consulting",
+        "pre-sales",
+        "solutions",
+        "customer_success",
+        "sow",
+        "ai_automation",
+        "integrations",
+        "change_management"
+      ],
+      "core_skills": [
+        "stakeholder_management",
+        "negotiation",
+        "communication",
+        "commercial_acumen"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "hr-generalist-honeycombinsura-37548265": {
+      "summary": "Runs day-to-day operations and systems for HR function including payroll, benefits, compliance, and HRIS management across multiple states",
+      "key_skills": [
+        "hris",
+        "payroll",
+        "benefits",
+        "compliance",
+        "data hygiene",
+        "reporting",
+        "hr operations",
+        "multi-state compliance"
+      ],
+      "core_skills": [
+        "hris",
+        "payroll",
+        "benefits",
+        "compliance"
+      ],
+      "seniority_signal": "vp",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "legal-engineering-ma-harvey-37548266": {
+      "summary": "Legal Engineering Manager leads high-performing teams to support go-to-market efforts by partnering with sales and customers, providing legal credibility and product expertise for complex engagements.",
+      "key_skills": [
+        "legal engineering",
+        "legal technology",
+        "ai",
+        "corporate law",
+        "m&a",
+        "private equity",
+        "venture capital",
+        "capital markets"
+      ],
+      "core_skills": [
+        "team leadership",
+        "customer engagement",
+        "commercial strategy",
+        "cross-functional collaboration"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "hybrid"
     }
