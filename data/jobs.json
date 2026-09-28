@@ -1,16 +1,14 @@
 {
   "meta": {
-    "count": 4814,
-    "active": 3025,
-    "new_today": 4,
+    "count": 4815,
+    "active": 2940,
+    "new_today": 2,
     "links_newly_archived": 0,
-    "updated": "2026-09-27T13:53:12Z",
+    "updated": "2026-09-28T03:48:54Z",
     "state": "Illinois",
     "law": "IL Equal Pay Act 820 ILCS 112",
     "currency": "USD",
-    "region": "IL",
-    "archived": 1789,
-    "links_validated": 0
+    "region": "IL"
   },
   "jobs": [
     {
@@ -5670,7 +5668,7 @@
       "_federal": false,
       "category": "Operations",
       "id": "senior-operations-as-headway-67785757",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-20",
       "work_mode": "remote",
       "salary_type": "annual",
@@ -5685,7 +5683,9 @@
       "category_provisional": false,
       "category_title": "Operations",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Operations"
+      "category_legacy": "Operations",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Partner Success Associate, Care Partnerships",
@@ -22619,7 +22619,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "support-operations-e-harvey-50115429",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-05-29",
       "scraped": "2026-05-29",
       "last_seen": "2026-09-20",
@@ -22632,7 +22632,9 @@
       "category_provisional": false,
       "category_title": "Engineering",
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Engineering"
+      "category_legacy": "Engineering",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Support Operations Manager, User Operations",
@@ -43862,7 +43864,7 @@
       "work_mode": "onsite",
       "salary_type": "annual",
       "id": "automotive-sales-ass-murgadoautomoti-65956354",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-11",
       "scraped": "2026-06-11",
       "last_seen": "2026-09-20",
@@ -43874,7 +43876,9 @@
       "category_provisional": false,
       "category_title": null,
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Sales"
+      "category_legacy": "Sales",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Automotive Sales Associate - Honda of Downtown Chicago",
@@ -46270,7 +46274,7 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "senior-manager--cons-pointb-65956354",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-11",
       "scraped": "2026-06-11",
       "last_seen": "2026-06-11",
@@ -46282,7 +46286,9 @@
       "category_provisional": false,
       "category_title": null,
       "classifier_version": "gemma4:12b|codex-v1.0|p2",
-      "category_legacy": "Management"
+      "category_legacy": "Management",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Digital Content Writer - Digital Marketing",
@@ -53491,7 +53497,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-staff-softwar-affirm-03484251",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-22",
       "scraped": "2026-06-22",
       "last_seen": "2026-06-22",
@@ -53502,7 +53508,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Engineering",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Staff Product Manager, App Platform & Experience",
@@ -53524,7 +53532,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "staff-product-manage-affirm-03484251",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-22",
       "scraped": "2026-06-22",
       "last_seen": "2026-06-22",
@@ -53535,7 +53543,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": null,
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Staff Software Engineer (Continuous Integration)",
@@ -59951,7 +59961,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "manager--software-en-affirm-06004201",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-29",
       "scraped": "2026-06-29",
       "last_seen": "2026-06-29",
@@ -59962,7 +59972,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Engineering",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Partner Engineer",
@@ -60396,7 +60408,7 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-solutions-eng-grafanalabs-06004201",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-06-29",
       "scraped": "2026-06-29",
       "last_seen": "2026-06-29",
@@ -60407,7 +60419,9 @@
       "category_confidence": "high",
       "category_provisional": true,
       "category_title": "Engineering",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Solutions Engineer | West Coast | Remote",
@@ -64158,7 +64172,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "client-onboarding-ma-spoton-18624971",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-01",
       "scraped": "2026-07-01",
       "last_seen": "2026-07-01",
@@ -64169,7 +64183,9 @@
       "category_confidence": "high",
       "category_provisional": true,
       "category_title": "Customer Service & Hospitality",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Partnerships Relationship Manager",
@@ -65429,7 +65445,7 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "software-engineer----enova-91305962",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-03",
       "scraped": "2026-07-03",
       "last_seen": "2026-07-03",
@@ -65440,7 +65456,9 @@
       "category_confidence": "high",
       "category_provisional": false,
       "category_title": "Engineering",
-      "classifier_version": "gemma4:12b|codex-v1.0|p4"
+      "classifier_version": "gemma4:12b|codex-v1.0|p4",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Associate Regional Sales Manager, Midwest",
@@ -70653,12 +70671,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "head-of-risk-product-imprint-94761271",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-06",
       "scraped": "2026-07-06",
       "last_seen": "2026-07-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Product Counsel",
@@ -79522,12 +79542,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "enterprise-business--groupon-64600528",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-23",
       "scraped": "2026-07-23",
       "last_seen": "2026-07-23",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Speech Language Pathologist Assistant (SLPA)",
@@ -83801,12 +83823,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "product-marketing-di-perk-55518759",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-07-31",
       "scraped": "2026-07-31",
       "last_seen": "2026-07-31",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Consultant, Policy",
@@ -84968,12 +84992,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "copywriting-lead-affirm-33591660",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
       "last_seen": "2026-08-03",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Engineering Manager, Machine Learning Platform",
@@ -85501,12 +85527,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "visual-designer--web-vercel-33591660",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
       "last_seen": "2026-08-03",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Associate General Counsel, Corporate",
@@ -86432,12 +86460,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "principal-software-e-twilio-33591662",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
       "last_seen": "2026-08-03",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Counsel, Commercial",
@@ -87282,12 +87312,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "solutions-consultant-ramp-33591662",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
       "last_seen": "2026-08-03",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Solutions Consultant, Post Sales, Commercial",
@@ -87786,12 +87818,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-gtm-strategy--vanta-33591663",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
       "last_seen": "2026-08-03",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Product Manager, Design Systems",
@@ -87954,12 +87988,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "staff-software-engin-vanta-33591664",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
       "last_seen": "2026-08-03",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Solution Consultant - Business Value",
@@ -88172,12 +88208,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "staff-data-scientist-headway-33591664",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
       "last_seen": "2026-08-03",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Sr. AI Enablement Engineer",
@@ -88485,12 +88523,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "talent-sourcer---sal-ashby-33591664",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
       "last_seen": "2026-08-03",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Government Affairs Manager - East",
@@ -88883,12 +88923,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "clean-energy-and-new-openai-33591664",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-03",
       "scraped": "2026-08-03",
       "last_seen": "2026-08-03",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Community Engagement Lead - Effingham County / Savannah MSA",
@@ -93466,12 +93508,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "marketing-analyst--s-princeton10-60269187",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-07",
       "scraped": "2026-08-07",
       "last_seen": "2026-08-07",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Field Service Technician - U.S. Air Force Global Sustainment Program",
@@ -94765,12 +94809,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "social-insights-anal-princeton10-05963233",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-11",
       "scraped": "2026-08-11",
       "last_seen": "2026-08-11",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Benefits Administrator",
@@ -95341,12 +95387,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "senior-public-sector-harvey-05963233",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-11",
       "scraped": "2026-08-11",
       "last_seen": "2026-08-11",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Executive Director / Vice President of Integrated Research & Evidence Solutions",
@@ -95395,12 +95443,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "health-services-mana-hinge-health-05963233",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-11",
       "scraped": "2026-08-11",
       "last_seen": "2026-08-11",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Project Manager, New Product Initiatives",
@@ -100060,12 +100110,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-account-execu-mixpanel-29167402",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-24",
       "scraped": "2026-08-24",
       "last_seen": "2026-08-24",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "VP, Omnichannel",
@@ -101169,12 +101221,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "instrumentation---co-stanleygroup-02065895",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-08-26",
       "scraped": "2026-08-26",
       "last_seen": "2026-08-26",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Licensed Clinical Mental Health Therapist Chicago River North",
@@ -104254,12 +104308,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "risk-specialist-arrivelogistics-20463832",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-01",
       "scraped": "2026-09-01",
       "last_seen": "2026-09-01",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Consultant, Evidence & Strategy",
@@ -104945,12 +105001,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "business-operations--crypto-07137000",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
       "last_seen": "2026-09-02",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Business Operations Manager / Director – FCM & Brokerage Operations",
@@ -104972,12 +105030,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "business-operations--crypto-07137000",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
       "last_seen": "2026-09-02",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Compliance - Market Surveillance Analyst",
@@ -105107,12 +105167,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "senior-treasury-anal-crypto-07137000",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
       "last_seen": "2026-09-02",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "U.S. Treasurer",
@@ -105296,12 +105358,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "account-manager---sm-workwave-07137000",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
       "last_seen": "2026-09-02",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Marketing Operations Manager (Pardot Administrator)",
@@ -106478,12 +106542,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "ai-deployment-engine-writer-07137001",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
       "last_seen": "2026-09-02",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Enterprise AI adoption lead (Central)",
@@ -106534,12 +106600,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "enterprise-ai-transf-writer-07137001",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
       "last_seen": "2026-09-02",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Solutions architect (Central)",
@@ -106561,12 +106629,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "solutions-architect--writer-07137001",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
       "last_seen": "2026-09-02",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Strategic account executive (Central)",
@@ -106588,12 +106658,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "strategic-account-ex-writer-07137001",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
       "last_seen": "2026-09-02",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Strategic AI adoption lead (Central)",
@@ -106644,12 +106716,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "strategic-ai-transfo-writer-07137001",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-02",
       "scraped": "2026-09-02",
       "last_seen": "2026-09-02",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Director of Revenue Operations, GTM Systems",
@@ -106806,12 +106880,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "commercial-finance-m-daniels-sharpsm-93578412",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-03",
       "scraped": "2026-09-03",
       "last_seen": "2026-09-03",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Construction & Maintenance Specialist",
@@ -107939,12 +108015,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "social-worker-clinic-menta-80017144",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-04",
       "scraped": "2026-09-04",
       "last_seen": "2026-09-04",
       "location_display": "Waukegan, IL",
-      "location_city": "Waukegan"
+      "location_city": "Waukegan",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Customer Implementation Manager",
@@ -108844,12 +108922,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "bank-compliance-tech-affirm-67499536",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Brand Marketing Manager",
@@ -108979,12 +109059,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "gtm-strategy---opera-affirm-67499536",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Lead Product Marketing Manager",
@@ -109060,12 +109142,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "legal-operations-ana-affirm-67499536",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Machine Learning Engineer II (Underwriting ML)",
@@ -110042,12 +110126,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "enterprise-account-e-webflow-67499536",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Communications Manager",
@@ -110125,12 +110211,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-manager--engi-webflow-67499536",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Manager, Sales Compensation",
@@ -110729,12 +110817,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-global-benefi-mixpanel-67499536",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior People Operations Manager",
@@ -110756,12 +110846,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-people-operat-mixpanel-67499536",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Relationship Manager, Mid Market (LATAM)",
@@ -111275,12 +111367,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "software-engineer-pl-twilio-67499536",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Sr. Manager, Global Sales Business Partners",
@@ -111464,12 +111558,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "engineering-manager--launchdarkly-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Backend Engineer, Billing",
@@ -111709,12 +111805,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "staff-frontend-engin-launchdarkly-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Staff Product Manager - Data Products and Agent Interface",
@@ -111983,12 +112081,14 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "graphic-design-lead-drivewealth-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Operational & Technology Risk Lead",
@@ -112010,12 +112110,14 @@
       "work_mode": "hybrid",
       "salary_type": "annual",
       "id": "operational---techno-drivewealth-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Accountant, Broker-Dealer Accounting",
@@ -112982,12 +113084,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "people-systems-admin-vanta-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Product GRC Subject Matter Expert, (V4G)",
@@ -113119,12 +113223,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-financial-sys-vanta-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Fullstack Software Engineer, Authoring Experience",
@@ -113553,12 +113659,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "staff-product-manage-vanta-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Staff Software Engineer, Foundations Data Platform",
@@ -113771,12 +113879,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "business-operations--headway-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Chief of Staff, Payer",
@@ -113825,12 +113935,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "customer-care-associ-headway-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Director of Customer Experience Operations",
@@ -113987,12 +114099,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "revenue-strategy-and-headway-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Revenue Strategy & Operations Manager (Insights & AI)",
@@ -114178,12 +114292,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "staff-product-manage-headway-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Staff Software Engineer - Experimentation",
@@ -114423,12 +114539,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "ai-tooling-program-m-clipboard-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Customer Support Team Lead",
@@ -115056,12 +115174,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "full-stack-software--serverobotics-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Sr. Technical Program Manager, Hardware/Software Integration",
@@ -115083,12 +115203,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "sr--technical-progra-serverobotics-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Auto Insurance Product Manager",
@@ -115330,12 +115452,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "sr--manager--strateg-prefect-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Staff Platform Engineer",
@@ -115498,12 +115622,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "marketing-design-tec-imprint-67499537",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Area Director, Partnerships Team - Central Region",
@@ -115662,12 +115788,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-lifecycle-mar-talkiatry-67499538",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Manager, Growth Creative Strategy",
@@ -115851,12 +115979,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "account-director--gs-openai-67499538",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Account Director, Media",
@@ -115878,12 +116008,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "account-director--me-openai-67499538",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Business Development Lead, Compute Strategy",
@@ -115932,12 +116064,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "client-partner---med-openai-67499538",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Community Engagement Lead - Ohio",
@@ -116069,12 +116203,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "technical-deployment-openai-67499538",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-06",
       "scraped": "2026-09-06",
       "last_seen": "2026-09-06",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Manager, Facility Operations",
@@ -117166,12 +117302,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "technical-solutions--ashby-40242577",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-08",
       "scraped": "2026-09-08",
       "last_seen": "2026-09-08",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Manager, Social Strategy & Community",
@@ -119536,12 +119674,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "audience-marketing-m-bisnow-99209259",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-11",
       "scraped": "2026-09-11",
       "last_seen": "2026-09-11",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Corporate Events & Experiences Lead",
@@ -120644,12 +120784,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "integrations-consult-ashby-99209262",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-11",
       "scraped": "2026-09-11",
       "last_seen": "2026-09-11",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Software Engineer II (Android)",
@@ -121385,12 +121527,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "project-coordinator-princeton10-85527209",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-11",
       "scraped": "2026-09-11",
       "last_seen": "2026-09-11",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Customer Success Manager",
@@ -137412,12 +137556,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "security-risk-manage-affirm-04123787",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
       "last_seen": "2026-09-18",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Software Engineer, Backend (Consumer Data Platform)",
@@ -137736,12 +137882,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "staff-software-engin-affirm-04123787",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
       "last_seen": "2026-09-18",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Staff Software Engineer, Mobile (App Infrastructure)",
@@ -137827,33 +137975,6 @@
       "archived_reason": "deadlink_diff_v1"
     },
     {
-      "role": "Strategic Enterprise Account Executive, Amazon",
-      "company": "Asana",
-      "min": 355000,
-      "max": 380000,
-      "location": "Remote (IL)",
-      "source_url": "https://www.asana.com/jobs/apply/8054355?gh_jid=8054355",
-      "posted": "2026-09-15",
-      "source_platform": "greenhouse",
-      "currency": "USD",
-      "region": "IL",
-      "_width": 25000,
-      "_compliant": true,
-      "_nonCompliant": false,
-      "_exempt": false,
-      "_federal": false,
-      "category": "Other",
-      "work_mode": "remote",
-      "salary_type": "annual",
-      "id": "strategic-enterprise-asana-04123787",
-      "status": "active",
-      "date_added": "2026-09-18",
-      "scraped": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "location_display": "Remote (IL)",
-      "location_city": ""
-    },
-    {
       "role": "Manager, Solutions Engineering | West Coast | Remote",
       "company": "Grafanalabs",
       "min": 234000,
@@ -137927,12 +138048,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior-commercial-ac-grafanalabs-04123787",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
       "last_seen": "2026-09-18",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Solutions Engineer, Acquisition | West Coast | Remote",
@@ -137981,12 +138104,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "solutions-engineer---grafanalabs-04123787",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
       "last_seen": "2026-09-18",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Staff Frontend Engineer - Grafana DataViz | Canada | Remote",
@@ -138278,12 +138403,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "senior--business-int-twilio-04123787",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
       "last_seen": "2026-09-18",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior People Technology Analyst - Talent Acquisition",
@@ -139240,12 +139367,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "manager--strategic-p-clipboard-04123788",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
       "last_seen": "2026-09-18",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Sales Operations Analyst",
@@ -139294,12 +139423,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "hr-business-partner--ashby-04123789",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
       "last_seen": "2026-09-18",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Product Manager, Onboarding and Growth",
@@ -139321,12 +139452,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "product-manager--onb-ashby-04123789",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
       "last_seen": "2026-09-18",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "VP of IT Infrastructure & Operations",
@@ -139375,12 +139508,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "licensed-sales-agent-kin-04123789",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
       "last_seen": "2026-09-18",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Senior Data Engineer",
@@ -139537,12 +139672,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "editor-openai-04123789",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
       "last_seen": "2026-09-18",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Infrastructure Operations & Sustainability Lead",
@@ -139564,33 +139701,6 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "infrastructure-opera-openai-04123789",
-      "status": "active",
-      "date_added": "2026-09-18",
-      "scraped": "2026-09-18",
-      "last_seen": "2026-09-18",
-      "location_display": "Remote (IL)",
-      "location_city": ""
-    },
-    {
-      "role": "Legal Counsel – Finance and Corporate Development",
-      "company": "Crusoe",
-      "min": 220000,
-      "max": 260000,
-      "location": "Remote (Illinois)",
-      "source_url": "https://jobs.ashbyhq.com/Crusoe/0283ec09-f191-41a4-b62f-ccb33d91bc06",
-      "posted": "2026-09-17",
-      "source_platform": "ashby",
-      "currency": "USD",
-      "region": "IL",
-      "_width": 40000,
-      "_compliant": true,
-      "_nonCompliant": false,
-      "_exempt": false,
-      "_federal": false,
-      "category": "Finance",
-      "work_mode": "remote",
-      "salary_type": "annual",
-      "id": "legal-counsel---fina-crusoe-04123789",
       "status": "active",
       "date_added": "2026-09-18",
       "scraped": "2026-09-18",
@@ -140445,12 +140555,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "people-operations-co-ashby-90426759",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-19",
       "scraped": "2026-09-19",
       "last_seen": "2026-09-19",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Director, Strategic Customer Relations",
@@ -140633,12 +140745,14 @@
       "work_mode": "unknown",
       "salary_type": "annual",
       "id": "audit-senior-manager-aprio-49409379",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-21",
       "scraped": "2026-09-21",
       "last_seen": "2026-09-21",
       "location_display": "Chicago, IL",
-      "location_city": "Chicago"
+      "location_city": "Chicago",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Experienced Automotive Technicians",
@@ -141555,12 +141669,14 @@
       "work_mode": "remote",
       "salary_type": "annual",
       "id": "director--business-o-headway-35005821",
-      "status": "active",
+      "status": "archived",
       "date_added": "2026-09-22",
       "scraped": "2026-09-22",
       "last_seen": "2026-09-22",
       "location_display": "Remote (IL)",
-      "location_city": ""
+      "location_city": "",
+      "archived_date": "2026-09-27",
+      "archived_reason": "deadlink_diff_v1"
     },
     {
       "role": "Territory Sales Representative/ Restaurant Specialist - Franklin Park, IL",
@@ -143324,33 +143440,6 @@
       "location_city": "Aurora"
     },
     {
-      "role": "Director, Strategic Partnerships and New Ventures",
-      "company": "Serverobotics",
-      "min": 220000,
-      "max": 250000,
-      "location": "Remote (Illinois)",
-      "source_url": "https://jobs.ashbyhq.com/serverobotics/a9bfb6bd-50e1-4de3-8c15-e4350f5e5e2f",
-      "posted": "2026-09-24",
-      "source_platform": "ashby",
-      "currency": "USD",
-      "region": "IL",
-      "_width": 30000,
-      "_compliant": true,
-      "_nonCompliant": false,
-      "_exempt": false,
-      "_federal": false,
-      "category": "Management",
-      "work_mode": "remote",
-      "salary_type": "annual",
-      "id": "director--strategic--serverobotics-07972813",
-      "status": "active",
-      "date_added": "2026-09-24",
-      "scraped": "2026-09-24",
-      "last_seen": "2026-09-24",
-      "location_display": "Remote (IL)",
-      "location_city": ""
-    },
-    {
       "role": "Professional Services II - AMZ27300.3",
       "company": "Amazon",
       "min": 131300,
@@ -144143,6 +144232,59 @@
       "last_seen": "2026-09-27",
       "location_display": "Chicago, IL",
       "location_city": "Chicago"
+    },
+    {
+      "role": "Head of Digital and Scaled Customer Success",
+      "company": "Asana",
+      "min": 223200,
+      "max": 262400,
+      "location": "Chicago, IL",
+      "source_url": "https://www.asana.com/jobs/apply/8078142?gh_jid=8078142",
+      "posted": "2026-09-15",
+      "source_platform": "greenhouse",
+      "currency": "USD",
+      "region": "IL",
+      "_width": 39200,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Other",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "head-of-digital-and--asana-67334747",
+      "status": "active",
+      "date_added": "2026-09-27",
+      "scraped": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "location_display": "Chicago, IL",
+      "location_city": "Chicago"
+    },
+    {
+      "role": "Sr Principal Digital Design Engineer",
+      "company": "CORP-Corporate Office",
+      "min": 135800,
+      "max": 203600,
+      "location": "Illinois, IL",
+      "source_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Sr-Principal-Digital-Design-Engineer_R10252229",
+      "posted": "2026-09-27",
+      "currency": "USD",
+      "region": "IL",
+      "_width": 67800,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Engineering",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "sr-principal-digital-corp-corporate--67334747",
+      "status": "active",
+      "date_added": "2026-09-27",
+      "scraped": "2026-09-27",
+      "last_seen": "2026-09-27",
+      "location_display": "Statewide (IL)",
+      "location_city": ""
     }
   ]
 }
